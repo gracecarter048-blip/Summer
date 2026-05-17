@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Carte/Github/Summer/MyProject2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/E/1M/PRAO8IJHDTP9SRBL8TUTZQ.uasset",
+				"C:/Users/Carte/Github/Summer/MyProject2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/B/K6/IGDRXOEZQ3SZUW0HPGT2WN.uasset",
+				"C:/Users/Carte/Github/Summer/MyProject2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/A/IB/JI2KZMLJ0NJ0CZ0I4PM06S.uasset",
+				"C:/Users/Carte/Github/Summer/MyProject2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/7/DY/I00W56WIY0BLG4DV9P4FRF.uasset",
+				"C:/Users/Carte/Github/Summer/MyProject2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/4/PG/07F4AA50WMN15D9XTYCA6V.uasset",
+				"C:/Users/Carte/Github/Summer/MyProject2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/2/2F/JDINZHH24GYJV1GEXTM1OK.uasset"
+			]
+		}
+	]
+}
